@@ -1,8 +1,12 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcampos23&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Campos;I'm+19+years+old;I'm+from+Brazil;I+Student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcampos23G&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcampos23&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcampos23&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <!--
@@ -18,6 +22,8 @@
 
 ##
   
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
 
 <!--
 **DavidCamposG/DavidCamposG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
